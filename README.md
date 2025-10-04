@@ -7,7 +7,7 @@ ________________________________________________________________________________
 📂 Projects
 1. Day 1 – Basics
 Introduction to Terraform basics, providers, and resources.
-📁[day1] (./day1)
+📁[day1](./day1)
 ________________________________________________________________________________________________________
 
 2. Day 2 – VPC Setup
@@ -17,17 +17,17 @@ ________________________________________________________________________________
 
 3. Day 3 – Modules
 4. Using and organizing Terraform modules for reusable infrastructure.
-5. [📁day3] (./day3)
+5. [📁day3](./day3)
 ________________________________________________________________________________________________________
 
 4. Day 4 – Provisioners
 Provisioning resources and running scripts on instances with Terraform provisioners.
- [📁day4-provisioner] (./day4-provisioner)
+ [📁day4-provisioner](./day4-provisioner)
 ________________________________________________________________________________________________________
 
 5. Vault Integration
 Integrating HashiCorp Vault with Terraform for secret management and policy enforcement.
- [📁vault-terraform] (./vault-terraform)
+ [📁vault-terraform](./vault-terraform)
 ________________________________________________________________________________________________________
 
 🚀 Upcoming Projects:
