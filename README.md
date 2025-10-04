@@ -12,22 +12,22 @@ ________________________________________________________________________________
 
 2. Day 2 – VPC Setup
 Creating a Virtual Private Cloud (VPC) with subnets, route tables, and internet gateways.
-📁 [day2-vpc] (./day2-vpc)
+📁 [day2-vpc](./day2-vpc)
 ________________________________________________________________________________________________________
 
 3. Day 3 – Modules
 4. Using and organizing Terraform modules for reusable infrastructure.
-5. [📁day3](./day3)
+5. 📁[day3](./day3)
 ________________________________________________________________________________________________________
 
 4. Day 4 – Provisioners
 Provisioning resources and running scripts on instances with Terraform provisioners.
- [📁day4-provisioner](./day4-provisioner)
+ 📁[day4-provisioner](./day4-provisioner)
 ________________________________________________________________________________________________________
 
 5. Vault Integration
 Integrating HashiCorp Vault with Terraform for secret management and policy enforcement.
- [📁vault-terraform](./vault-terraform)
+ 📁[vault-terraform](./vault-terraform)
 ________________________________________________________________________________________________________
 
 🚀 Upcoming Projects:
